@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: OpenAPI Docs
 plugins:
   - neoteroi.mkdocsoad:
       use_pymdownx: true

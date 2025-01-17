@@ -1,3 +1,3 @@
-# Fake REST API Documentation
+# Fake REST API Home
 
-REST API Documentation
+This would be home to the REST/OpenAPI's examples, documentation, etc.
